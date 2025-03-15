@@ -1,5 +1,5 @@
-# Your Student 230543005:
-# Your Kadir and Karaoğlu:
+# Your Student Id: 230543005
+# Your Name and Surname: Kadir Karaoğlu
 import math
 radius = float (input("Enter the radius of the circle : "))
 area = (math.pi) * radius * radius
