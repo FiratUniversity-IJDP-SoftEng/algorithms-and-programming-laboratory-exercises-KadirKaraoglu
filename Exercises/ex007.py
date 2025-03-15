@@ -1,5 +1,5 @@
-# Your Student 230543005:
-# Your Kadir and Karaoglu:
+# Your Student Id: 230543005
+# Your Name and Surname: Kadir Karaoğlu
 w = input("Please enter a text: ")
 print("Character frequencies: ")
 charCount = {}
