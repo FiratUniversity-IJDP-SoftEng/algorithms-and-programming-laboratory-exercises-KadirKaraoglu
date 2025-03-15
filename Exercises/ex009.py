@@ -1,5 +1,5 @@
-# Your Student 230543005:
-# Your Kadir and Karaoğlu:
+# Your Student Id: 230543005
+# Your Name and Surname: Kadir Karaoğlu
 
     respond= input("""which opartion do you use ?\n if you want Celsius to convert Fahrebheit enter "c" \n 
      if you want Fahrenheit to convert Celsius enter "f" """).upper()
