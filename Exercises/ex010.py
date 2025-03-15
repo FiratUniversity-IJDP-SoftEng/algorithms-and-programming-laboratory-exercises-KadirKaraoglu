@@ -1,5 +1,5 @@
-# Your Student 230543005:
-# Your Kadir and Karaoğlu:
+# Your Student Id: 230543005
+# Your Name and Surname: Kadir Karaoğlu
 while True:
   operation = input(
       "which method do yopu want use ?\n please enter a for addition\n please enter s for subtraction\n please enter m for multiplication\n please enter d for division\n"
