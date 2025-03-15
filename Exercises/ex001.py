@@ -1,5 +1,5 @@
-# Your Student ID:
-# Your Name and Surname:
+# Your Student 230543005:
+# Your Kadir and Karaoğlu:
 print("Twinkle, twinkle, little star,")
 print("\tHow I wonder what you are!") 
 print("\t\tUp above the world so high, ")
